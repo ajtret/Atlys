@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import './app.css';
+import './App.css';
 
 const initialFunctions = [
   { id: 1, equation: "x^2", next: 2 },
